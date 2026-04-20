@@ -1,45 +1,54 @@
-﻿# Farzad Nikraftar
-### Senior Software QA Engineer | Fintech | Real-Time Systems | Automation
+﻿<h1 align="center">Farzad Nikraftar</h1>
+<p align="center"><b>Senior Software QA Engineer</b> • Fintech • Real-Time Systems • Automation</p>
 
-Tehran, Iran  
-[LinkedIn](https://linkedin.com/in/farzad-nikraftar) • [GitHub](https://github.com/farzadnkh) • farzadnikraftar80@gmail.com
+<p align="center">
+  <a href="https://github.com/farzadnkh"><img src="https://img.shields.io/badge/GitHub-farzadnkh-181717?logo=github" /></a>
+  <a href="https://linkedin.com/in/farzad-nikraftar"><img src="https://img.shields.io/badge/LinkedIn-Farzad%20Nikraftar-0A66C2?logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-informational" />
+  <img src="https://img.shields.io/badge/Focus-Quality%20Engineering-1f6feb" />
+</p>
 
-I build QA systems that reduce release risk in fintech and real-time products.
-My focus is quality engineering across API, UI, streaming/WebSocket workflows, security-negative scenarios, and CI/CD quality gates.
+## About Me
+
+I design QA systems that reduce release risk for high-impact products.
+My work focuses on API/UI automation, real-time streaming validation, security-negative testing, and CI/CD quality gates.
 
 ## Core Skills
 
 - **Automation:** Playwright, API Automation, E2E, Regression
-- **Backend & Real-Time QA:** REST, WebSocket, streaming/data validation, multi-provider pipelines
+- **Backend & Real-Time QA:** REST, WebSocket, streaming validation, multi-provider pipelines
 - **Performance:** K6, JMeter, load/stress strategy
-- **Security Testing:** OWASP Top 10, token/auth testing, negative abuse scenarios
-- **CI/CD:** GitLab CI/CD, GitHub Actions, release-gate checks
+- **Security Testing:** OWASP Top 10, auth/token abuse scenarios, API hardening checks
+- **CI/CD:** GitLab CI/CD, GitHub Actions, release-readiness pipelines
 - **Engineering:** JavaScript, TypeScript, SQL, n8n
 
-## Highlighted Repositories
+## Featured Projects
 
-- [payment-api-robot](https://github.com/farzadnkh/payment-api-robot) - API automation (Robot Framework + RequestsLibrary), business rule validation, CI-ready reports.
-- [playwright-e2e-tests](https://github.com/farzadnkh/playwright-e2e-tests) - Modular Playwright framework in TypeScript for scalable UI/API testing.
-- [automation-test](https://github.com/farzadnkh/automation-test) - Flight-booking E2E automation with maintainable Page Object Model design.
-- [dotnet-test](https://github.com/farzadnkh/dotnet-test) - Backend QA/testing samples relevant to fintech and real-time services.
-- [stress-test](https://github.com/farzadnkh/stress-test) - Stress/performance testing configurations for reliability validation.
-- [aparat-automation](https://github.com/farzadnkh/aparat-automation) - Playwright POM sample for robust UI interaction flows.
+| Repository | What It Proves |
+|---|---|
+| [payment-api-robot](https://github.com/farzadnkh/payment-api-robot) | Business-rule driven API automation with structured QA strategy |
+| [playwright-e2e-tests](https://github.com/farzadnkh/playwright-e2e-tests) | Scalable TypeScript framework engineering for test maintainability |
+| [automation-test](https://github.com/farzadnkh/automation-test) | End-to-end user-flow reliability with secure env-driven configuration |
+| [dotnet-test](https://github.com/farzadnkh/dotnet-test) | Backend/real-time QA coverage in fintech-style service contexts |
+| [stress-test](https://github.com/farzadnkh/stress-test) | Performance risk discovery and release-threshold mindset |
+| [aparat-automation](https://github.com/farzadnkh/aparat-automation) | Clean POM-based UI automation design and execution discipline |
 
 ## Experience Snapshot
 
-**Senior Software QA Engineer - Next Top Tech (NTT) / Alpari Broker** (Jul 2025 - May 2026)
-- Owned end-to-end QA for real-time fintech services as final release quality gate.
-- Tested Exchange Rate Provider behavior (WebSocket streaming, reconnection, heartbeat, failover).
-- Validated pricing quality across 50+ trading pairs and prevented critical production defects.
-- Verified secure token flows and negative auth/security scenarios.
-- Integrated automated API checks into CI/CD pipelines.
+### Senior Software QA Engineer — Next Top Tech (NTT) / Alpari Broker (Jul 2025 - May 2026)
+- Final quality gate owner for real-time fintech services
+- Validated WebSocket heartbeat/reconnect/failover behavior
+- Protected pricing correctness across 50+ trading pairs
+- Integrated release-focused API automation into CI/CD
 
-**Software QA Engineer - Hafthashtad** (May 2023 - Jun 2025)
-- Built scalable Playwright framework (POM + reusable fixtures/utilities).
-- Reduced regression time with automation and improved release confidence.
-- Designed API regression suites (positive/negative/edge).
-- Executed performance/load testing for high-concurrency scenarios.
+### Software QA Engineer — Hafthashtad (May 2023 - Jun 2025)
+- Built scalable Playwright POM framework
+- Reduced regression execution time through automation
+- Performed API, performance, and reliability-focused validation
 
 ## QA Philosophy
 
-Quality is not just test execution. It is risk reduction, signal quality in CI, and fast feedback loops that help engineering teams ship confidently.
+Quality is not only finding bugs. It is creating trusted delivery signals, reducing uncertainty, and helping teams ship confidently.
+
+---
+<p align="center">Open to Senior QA and Quality Engineering opportunities (Remote / Hybrid).</p>
